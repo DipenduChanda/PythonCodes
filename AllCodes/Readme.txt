@@ -1,1 +1,1 @@
-Contains various puthon codes.
+Contains various python codes.
